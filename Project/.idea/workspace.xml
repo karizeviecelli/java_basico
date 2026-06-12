@@ -4,13 +4,28 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="33a04860-330d-46bf-aaf0-00b277c891f8" name="Changes" comment="Ass: Caio" />
+    <list default="true" id="33a04860-330d-46bf-aaf0-00b277c891f8" name="Changes" comment="Ass: Caio">
+      <change beforePath="$PROJECT_DIR$/../Caio/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Caio/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <favorite-branches>
+      <branch-storage>
+        <map>
+          <entry type="LOCAL">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$/.." source="Caio" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </favorite-branches>
     <option name="PREVIOUS_COMMIT_AUTHORS">
       <list>
         <option value="caio_hostins &lt;caio_hostins@estudante.sesisenai.org.br&gt;" />
@@ -18,9 +33,9 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 4
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="3F0o0KtRXXgCdLMs9jKPFtlncew" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -31,7 +46,7 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "Caio",
     "onboarding.tips.debug.path": "C:/Users/caio_hostins/IdeaProjects/java_basico/Project/src/Main.java"
   }
 }]]></component>
